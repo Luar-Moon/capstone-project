@@ -37,35 +37,6 @@ This project leverages the following tools and technologies:
 ├── README.md               # Project documentation
 ```
 
-## Getting Started
-### Prerequisites
-- Python 3.8 or later
-- Install dependencies using `pip install -r requirements.txt`
-
-### Installation
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/data-science-capstone.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd data-science-capstone
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### Usage
-- To run the analysis, execute:
-    ```bash
-    python src/main.py
-    ```
-- Open Jupyter notebooks for step-by-step explorations:
-    ```bash
-    jupyter notebook notebooks/
-    ```
-
 ## Contributors
 - **Your Name** - [GitHub Profile](https://github.com/yourusername)
 - Open to contributions! Feel free to fork the repo and submit a pull request.
