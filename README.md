@@ -38,7 +38,7 @@ This project leverages the following tools and technologies:
 ```
 
 ## Contributors
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
+- **Raúl L. C.** - [GitHub Profile]([https://github.com/yourusername](https://github.com/Luar-Moon))
 - Open to contributions! Feel free to fork the repo and submit a pull request.
 
 ## License
