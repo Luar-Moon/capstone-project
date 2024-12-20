@@ -29,11 +29,7 @@ This project leverages the following tools and technologies:
 
 ## Folder Structure
 ```
-├── data/                   # Raw and processed datasets
 ├── notebooks/              # Jupyter notebooks for analysis
-├── src/                    # Source code for data processing and modeling
-├── reports/                # Generated analysis and visualizations
-├── models/                 # Saved machine learning models
 ├── README.md               # Project documentation
 ```
 
